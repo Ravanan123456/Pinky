@@ -4,7 +4,7 @@
 <div align="center">
   <img border-radius: 15px src="https://i.imgur.com/zdcqaaG.jpeg" width="200" height="200"/>
   <p align="center">
-<a href="#"><img title="PinkyMwol" src="https://img.shields.io/badge/afnanplk-pink?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="PinkyMwol" src="https://img.shields.io/badge/JISHNU-pink?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
 <a href=/<img title="join support" src="https://img.shields.io/badge/join_support-JISHNU/pinkymwol?color=black&style=for-the-badge&logo=whatsapp"></a>
